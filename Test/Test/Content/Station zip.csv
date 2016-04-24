@@ -1,0 +1,70 @@
+Station,Zip,Parking,Bike,Handicape,Line,Hub
+Airport,,yes,no,yes,Blue,
+Alewife,,yes,yes ,yes,Red,
+Andrew Square,,no,no,yes,Red,
+Aquarium,,no,no,yes,Blue,
+Arlington,,no,no,yes,Green,
+Ashmont,,no,yes,yes,Red,
+Back Bay,,yes,yes,yes,Orange,
+Beachmont,,yes,yes,yes,Blue,
+Bowdoin,,yes,no,no,Blue,
+Boylston,,no,no,no,Green,
+Braintree,,yes,yes ,yes,Red,
+Broadway,,no,no,yes,Red,
+Central Square,,no,yes,yes,Red,
+Charles MGH,,yes,no,yes,Red,
+Chinatown,,no,no,yes,Orange,
+Community College,,no,yes,yes,Orange,
+Copley Square,,no,no,yes,Green,
+Courthouse,,no,no,yes,Silver,
+Davis Square,,no,yes,yes,Red,
+Downtown Crossing,,no,no,yes,Orange,yes
+Downtown Crossing,,no,no,yes,Red,yes
+Fields Corner,,no,no,yes,Red,
+Forest Hills,,yes,yes,yes,Orange,
+Government Center,,yes,no,yes,Green,yes
+Government Center,,yes,no,yes,Blue,yes
+Green Street,,no,yes,yes,Orange,
+Harvard,,no,yes,yes,Red,
+Haymarket,,yes,no,yes,Green,yes
+Haymarket,,yes,no,yes,Orange,yes
+Hynes,,no,no,no,Green,
+Jackson Square,,no,yes,yes,Orange,
+JFK/U Mass,,yes,yes,yes,Red,
+Kendall Square,,no,yes,yes,Red,
+Kenmore Square,,no,yes,yes,Green,
+Lechmere,,yes,no,yes,Green,
+Malden Center,,yes,yes,yes,Orange,
+Mass Ave,,no,yes,yes,Orange,
+Maverick,,no,yes ,yes,Blue,
+North Quincy,,yes,yes,yes,Red,
+North Station,,yes,yes,yes,Green,yes
+North Station,,yes,yes,yes,Orange,yes
+Oak Grove,,yes,yes,yes,Orange,
+Orient Heights,,yes,yes,yes,Blue,
+Park Street,,no,no,yes,Green,yes
+Park Street,,no,no,yes,Red,yes
+Porter Square,,no,yes,yes,Red,
+Prudential,,no,no,yes,Green,
+Quincy Adams,,yes,yes,yes,Red,
+Quincy Center,,no,no,yes,Red,
+Revere Beach,,yes,yes,yes,Blue,
+Riverside,,yes,yes,yes,Green,
+Roxbury Crossing,,no,yes,yes,Orange,
+Ruggles,,yes,yes,yes,Orange,
+Savin Hill,,yes,no,yes,Red,
+Science Park,,no,no,yes,Green,
+Shawmut,,no,no,yes,Red,
+South Station,,yes,yes,yes,Red,
+State Street,,no,no,yes,Orange,yes
+State Street,,no,no,yes,Blue,yes
+Stony Brook,,no,yes,yes,Orange,
+Suffolk Downs,,yes,yes,yes,Blue,
+Sullivan Square,,yes,yes,yes,Orange,
+Symphony,,no,no,no,Green,
+Tufts Medical Center,,no,no,yes,Orange,
+Wellington,,yes,yes,yes,Orange,
+Wollaston,,yes,yes,no,Red,
+Wonderland,,yes,yes,yes,Blue,
+Wood Island,,no,yes,yes,Blue,
+World Trade Center,,no,no,yes,Silver,
